@@ -435,6 +435,10 @@ DocumentUniqueId=DLWCEAEA
 DocumentPath=Project Outputs for ESP32-PicoD4开发板\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ESP32-PicoD4开发板\Design Rule Check - PCB2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
