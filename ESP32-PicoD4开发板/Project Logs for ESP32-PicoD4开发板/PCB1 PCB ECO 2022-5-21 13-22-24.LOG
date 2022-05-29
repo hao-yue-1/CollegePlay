@@ -1,0 +1,29 @@
+Added Component: Designator=USB1(USB-C-SMD_TYPE-C-USB-5)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Shenzhen Kinghelm Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C709357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=VBUS Pin=USB1-A4
+Added Pin To Net: NetName=NetR12_2 Pin=USB1-A5
+Added Pin To Net: NetName=USB-PWR-DP Pin=USB1-A6
+Added Pin To Net: NetName=USB-PWR-DM Pin=USB1-A7
+Added Pin To Net: NetName=VBUS Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VBUS Pin=USB1-B4
+Added Pin To Net: NetName=NetR13_2 Pin=USB1-B5
+Added Pin To Net: NetName=USB-PWR-DP Pin=USB1-B6
+Added Pin To Net: NetName=USB-PWR-DM Pin=USB1-B7
+Added Pin To Net: NetName=VBUS Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 TYPE-C
+Added Room: Name=Sheet1

@@ -1,0 +1,178 @@
+Removed Pin From Net: NetName=GPIO0 Pin=-2
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0.1uF
+Change Component Comment : Designator= Old Comment= New Comment=0R
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1K
+Change Component Comment : Designator= Old Comment= New Comment=1N4148W
+Change Component Comment : Designator= Old Comment= New Comment=1uF
+Change Component Comment : Designator= Old Comment= New Comment=1uF
+Change Component Comment : Designator= Old Comment= New Comment=1uF
+Change Component Comment : Designator= Old Comment= New Comment=2.2nF
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7uF
+Change Component Comment : Designator= Old Comment= New Comment=5.1K
+Change Component Comment : Designator= Old Comment= New Comment=5.1K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10K
+Change Component Comment : Designator= Old Comment= New Comment=10nF
+Change Component Comment : Designator= Old Comment= New Comment=10uF
+Change Component Comment : Designator= Old Comment= New Comment=10uF
+Change Component Comment : Designator= Old Comment= New Comment=10uF
+Change Component Comment : Designator= Old Comment= New Comment=12K
+Change Component Comment : Designator= Old Comment= New Comment=12K
+Change Component Comment : Designator= Old Comment= New Comment=200R
+Change Component Comment : Designator= Old Comment= New Comment=560K
+Change Component Comment : Designator= Old Comment= New Comment=AN2051-245
+Change Component Comment : Designator= Old Comment= New Comment=CAP
+Change Component Comment : Designator= Old Comment= New Comment=CP2102-GMR
+Change Component Comment : Designator= Old Comment= New Comment=ESP32-PICO-D4
+Change Component Comment : Designator= Old Comment= New Comment=IR19-21C/TR8
+Change Component Comment : Designator= Old Comment= New Comment=LED
+Change Component Comment : Designator= Old Comment= New Comment=LED
+Change Component Comment : Designator= Old Comment= New Comment=MPU-6050_C24112
+Change Component Comment : Designator= Old Comment= New Comment=OLED-128*32
+Change Component Comment : Designator= Old Comment= New Comment=S8050
+Change Component Comment : Designator= Old Comment= New Comment=S8050
+Change Component Comment : Designator= Old Comment= New Comment=S8050
+Change Component Comment : Designator= Old Comment= New Comment=TYPE-C
+Change Component Comment : Designator= Old Comment= New Comment=XC6206P332MR
+Change Component Comment : Designator= Old Comment= New Comment=排针-直-15P
+Change Component Comment : Designator= Old Comment= New Comment=排针-直-15P
+Change Component Comment : Designator= Old Comment= New Comment=跳线
+Change Component Comment : Designator= Old Comment= New Comment=跳线
+Change Component Comment : Designator= Old Comment= New Comment=跳线
+Change Component Comment : Designator= Old Comment= New Comment=跳线
+Change Component Comment : Designator= Old Comment= New Comment=跳线
+Change Component Comment : Designator= Old Comment= New Comment=轻触开关
+Change Component Comment : Designator= Old Comment= New Comment=轻触开关
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=C12
+Change Component Designator: OldDesignator= NewDesignator=C13
+Change Component Designator: OldDesignator= NewDesignator=C14
+Change Component Designator: OldDesignator= NewDesignator=C15
+Change Component Designator: OldDesignator= NewDesignator=C16
+Change Component Designator: OldDesignator= NewDesignator=C17
+Change Component Designator: OldDesignator= NewDesignator=C18
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=D2
+Change Component Designator: OldDesignator= NewDesignator=D3
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=J4
+Change Component Designator: OldDesignator= NewDesignator=J5
+Change Component Designator: OldDesignator= NewDesignator=L1
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=R13
+Change Component Designator: OldDesignator= NewDesignator=R14
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=R16
+Change Component Designator: OldDesignator= NewDesignator=R17
+Change Component Designator: OldDesignator= NewDesignator=R18
+Change Component Designator: OldDesignator= NewDesignator=SW1
+Change Component Designator: OldDesignator= NewDesignator=SW2
+Change Component Designator: OldDesignator= NewDesignator=U1
+Change Component Designator: OldDesignator= NewDesignator=U2
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator= NewDesignator=U5
+Change Component Designator: OldDesignator= NewDesignator=USB1
+Added Pin To Net: NetName=GPIO19 Pin=J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 2.2nF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 CAP
+Added Member To Class: ClassName=Sheet1 Member=Component C14 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C15 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C16 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C17 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 1N4148W
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component J1 跳线
+Added Member To Class: ClassName=Sheet1 Member=Component J2 跳线
+Added Member To Class: ClassName=Sheet1 Member=Component J3 跳线
+Added Member To Class: ClassName=Sheet1 Member=Component J4 跳线
+Added Member To Class: ClassName=Sheet1 Member=Component J5 跳线
+Added Member To Class: ClassName=Sheet1 Member=Component L1 AN2051-245
+Added Member To Class: ClassName=Sheet1 Member=Component P1 OLED-128*32
+Added Member To Class: ClassName=Sheet1 Member=Component P2 排针-直-15P
+Added Member To Class: ClassName=Sheet1 Member=Component P3 排针-直-15P
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 S8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 S8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 S8050
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R5 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 560K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 200R
+Added Member To Class: ClassName=Sheet1 Member=Component R12 5.1K
+Added Member To Class: ClassName=Sheet1 Member=Component R13 5.1K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R15 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R16 12K
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R18 12K
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 轻触开关
+Added Member To Class: ClassName=Sheet1 Member=Component U1 IR19-21C/TR8
+Added Member To Class: ClassName=Sheet1 Member=Component U2 MPU-6050_C24112
+Added Member To Class: ClassName=Sheet1 Member=Component U3 ESP32-PICO-D4
+Added Member To Class: ClassName=Sheet1 Member=Component U4 CP2102-GMR
+Added Member To Class: ClassName=Sheet1 Member=Component U5 XC6206P332MR
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 TYPE-C

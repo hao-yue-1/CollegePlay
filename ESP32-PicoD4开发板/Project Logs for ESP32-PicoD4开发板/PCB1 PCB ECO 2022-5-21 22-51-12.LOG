@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-2
+Removed Pin From Net: NetName=VBUS Pin=U5-3
+Added Component: Designator=U5(SOT-89)
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=3V3 Pin=U5-2
+Added Pin To Net: NetName=3V3 Pin=U5-2
+Added Pin To Net: NetName=VBUS Pin=U5-3
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 Çá´¥¿ª¹Ø
