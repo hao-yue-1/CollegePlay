@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=GPIO19 Pin=J1-2
-Added Pin To Net: NetName=GPIO5 Pin=J1-2
-Added Member To Class: ClassName=Sheet1 Member=Component P1 OLED-128*32

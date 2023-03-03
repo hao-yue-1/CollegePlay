@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=GPIO33 Pin=P1-13
-Change Component Comment : Designator=R19 Old Comment=4.7K New Comment=10K
-Added Member To Class: ClassName=Sheet1 Member=Component P1 OLED-128*32

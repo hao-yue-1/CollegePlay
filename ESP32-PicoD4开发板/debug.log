@@ -1,4 +1,0 @@
-[0604/012941.233:INFO:CONSOLE(69)] "JQMIGRATE: Migrate is installed with logging active, version 3.3.2", source: https://helper.jlc.com/common/js/jquery-migrate-3.3.2-7268582287.js (69)
-[0604/012944.154:INFO:CONSOLE(69)] "JQMIGRATE: Migrate is installed with logging active, version 3.3.2", source: https://helper.jlc.com/common/js/jquery-migrate-3.3.2-7268582287.js (69)
-[0604/012944.258:INFO:CONSOLE(48)] "TypeError: appClient.GetBrowserCoreVersion is not a function", source: https://helper.jlc.com/cas/login-deb73a8ce2.js (48)
-[0604/012944.547:WARNING:gpu_process_host.cc(1165)] The GPU process has crashed 1 time(s)
